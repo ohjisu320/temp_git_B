@@ -1,5 +1,4 @@
 def test() :
-    
     list_question = [
             'Python에서 변수를 선언하는 방법은? (점수: 10점)'
             ,'Python에서 리스트(List)의 특징은 무엇인가요? (점수: 15점)'
