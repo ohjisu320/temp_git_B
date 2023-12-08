@@ -3,3 +3,4 @@
 #BB
 
 #A
+print("B")
