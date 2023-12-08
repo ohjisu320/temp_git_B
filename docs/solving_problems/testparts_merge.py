@@ -2,4 +2,4 @@
 #B
 #BB
 
-#A
+print("A")
